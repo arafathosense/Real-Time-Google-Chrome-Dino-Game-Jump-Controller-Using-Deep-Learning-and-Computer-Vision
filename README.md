@@ -1,5 +1,7 @@
 **Real-Time Google Chrome Dino Game Jump Controller Using Deep Learning and Computer Vision**
 
+Play the Google Chrome Dino Game using just your hand and fingers! No keyboard or mouse is needed. This project uses Deep Learning (MediaPipe Hands) and Computer Vision (OpenCV) to detect your hand and track finger gestures. When you bring your thumb and index finger together, it automatically makes the dinosaur jump in real time.
+
 
 **🧠 Installation & Setup**
 
